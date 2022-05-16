@@ -1,0 +1,15 @@
+C:\src\2022\activates\atividade\atividade\obj\Debug\net6.0\atividade.csproj.AssemblyReference.cache
+C:\src\2022\activates\atividade\atividade\obj\Debug\net6.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\2022\activates\atividade\atividade\obj\Debug\net6.0\atividade.AssemblyInfoInputs.cache
+C:\src\2022\activates\atividade\atividade\obj\Debug\net6.0\atividade.AssemblyInfo.cs
+C:\src\2022\activates\atividade\atividade\obj\Debug\net6.0\atividade.csproj.CoreCompileInputs.cache
+C:\src\2022\activates\atividade\atividade\bin\Debug\net6.0\atividade.exe
+C:\src\2022\activates\atividade\atividade\bin\Debug\net6.0\atividade.deps.json
+C:\src\2022\activates\atividade\atividade\bin\Debug\net6.0\atividade.runtimeconfig.json
+C:\src\2022\activates\atividade\atividade\bin\Debug\net6.0\atividade.dll
+C:\src\2022\activates\atividade\atividade\bin\Debug\net6.0\atividade.pdb
+C:\src\2022\activates\atividade\atividade\obj\Debug\net6.0\atividade.dll
+C:\src\2022\activates\atividade\atividade\obj\Debug\net6.0\refint\atividade.dll
+C:\src\2022\activates\atividade\atividade\obj\Debug\net6.0\atividade.pdb
+C:\src\2022\activates\atividade\atividade\obj\Debug\net6.0\atividade.genruntimeconfig.cache
+C:\src\2022\activates\atividade\atividade\obj\Debug\net6.0\ref\atividade.dll
