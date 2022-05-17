@@ -1,0 +1,15 @@
+C:\src\2022\activates\atividade\Exercicio7\bin\Debug\net6.0\Exercicio7.exe
+C:\src\2022\activates\atividade\Exercicio7\bin\Debug\net6.0\Exercicio7.deps.json
+C:\src\2022\activates\atividade\Exercicio7\bin\Debug\net6.0\Exercicio7.runtimeconfig.json
+C:\src\2022\activates\atividade\Exercicio7\bin\Debug\net6.0\Exercicio7.dll
+C:\src\2022\activates\atividade\Exercicio7\bin\Debug\net6.0\Exercicio7.pdb
+C:\src\2022\activates\atividade\Exercicio7\obj\Debug\net6.0\Exercicio7.csproj.AssemblyReference.cache
+C:\src\2022\activates\atividade\Exercicio7\obj\Debug\net6.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\2022\activates\atividade\Exercicio7\obj\Debug\net6.0\Exercicio7.AssemblyInfoInputs.cache
+C:\src\2022\activates\atividade\Exercicio7\obj\Debug\net6.0\Exercicio7.AssemblyInfo.cs
+C:\src\2022\activates\atividade\Exercicio7\obj\Debug\net6.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\src\2022\activates\atividade\Exercicio7\obj\Debug\net6.0\Exercicio7.dll
+C:\src\2022\activates\atividade\Exercicio7\obj\Debug\net6.0\refint\Exercicio7.dll
+C:\src\2022\activates\atividade\Exercicio7\obj\Debug\net6.0\Exercicio7.pdb
+C:\src\2022\activates\atividade\Exercicio7\obj\Debug\net6.0\Exercicio7.genruntimeconfig.cache
+C:\src\2022\activates\atividade\Exercicio7\obj\Debug\net6.0\ref\Exercicio7.dll
