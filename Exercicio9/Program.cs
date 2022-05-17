@@ -6,7 +6,7 @@ b = double.Parse(Console.ReadLine());
 
 result = a % b;
 
-Console.WriteLine($"Resultado da operação: ");
+Console.WriteLine($"Resultado da operação: {result}");
 
 if (result == 0)
 {
